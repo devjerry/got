@@ -130,7 +130,7 @@ It's a `GET` request by default, but can be changed by using different methods o
 
 #### got(url?, options?)
 
-Returns a Promise giving a [Response object](#response) or a [Got Stream](#streams-1) if `options.isStream` is set to true.
+Returns a Promise givingf a [Response object](#response) or a [Got Stream](#streams-1) if `options.isStream` is set to true.
 
 ##### url
 
